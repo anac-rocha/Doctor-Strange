@@ -8,7 +8,8 @@
 
 ### Tecnologias: HTML e CSS. 
 
-  
+
+ Versão hospedada Vercel :  https://doctor-strange1.vercel.app/#
 
 Abaixo, um screenshot do resultado final: 
 
